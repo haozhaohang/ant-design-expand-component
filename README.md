@@ -11,6 +11,7 @@ ant design表单组件拓展
 * 下载本项目
 ```
 git clone https://github.com/haozhaohang/ant-design-expand-component.git
+cd ant-design-expand-component
 yarn install
 yarn dev
 ```
