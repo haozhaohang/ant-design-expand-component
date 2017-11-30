@@ -30,7 +30,7 @@ class Test extends PureComponent {
     render() {
         const { form: { getFieldDecorator } } = this.props
 
-        const nameDecorator = getFieldDecorator('name')
+        const nameDecorator = getFieldDecorator('name', { initialValue: [] })
         const sexDecorator = getFieldDecorator('sex')
         const flieDecorator = getFieldDecorator('flie')
 

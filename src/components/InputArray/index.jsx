@@ -78,8 +78,8 @@ InputArray.propTypes = {
     ])
 }
 
-InputArray.defaultProps = {
-    value: []
-}
+// InputArray.defaultProps = {
+//     value: []
+// }
 
 export default InputArray
